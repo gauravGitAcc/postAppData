@@ -1,0 +1,218 @@
+ [
+  {
+    "status": "APPROVED",
+    "caseNumber": "S230SKAN",
+    "date": "Mar 24, 2023, 5:03:24 PM",
+    "fromLocation": "Bellenduru spike lake",
+    "toLocation": "KHB Colony, Basaveshwar Nagar, Bengaluru, Karnataka, India",
+    "fare": "₹ 0"
+  },
+  {
+    "status": "PENDING",
+    "caseNumber": "S230IS9230",
+    "date": "Mar 24, 2023, 5:10:24 PM",
+    "fromLocation": "MG Road Metro Station",
+    "toLocation": "Kodihalli, Bengaluru, Karnataka, India",
+    "fare": "₹ 200"
+  },
+  {
+    "status": "COMPLETED",
+    "caseNumber": "S240SKAN",
+    "date": "Mar 25, 2023, 9:15:10 AM",
+    "fromLocation": "Jayanagar 4th Block",
+    "toLocation": "Indiranagar Metro Station, Indiranagar, Bengaluru, Karnataka, India",
+    "fare": "₹ 150"
+  },
+  {
+    "status": "CANCELLED",
+    "caseNumber": "S230KX230",
+    "date": "Mar 25, 2023, 11:02:05 AM",
+    "fromLocation": "Bengaluru International Airport",
+    "toLocation": "Koramangala 4th Block, Bengaluru, Karnataka, India",
+    "fare": "₹ 400"
+  },
+  {
+    "status": "APPROVED",
+    "caseNumber": "S232SU219",
+    "date": "Mar 26, 2023, 3:48:18 PM",
+    "fromLocation": "Whitefield Railway Station",
+    "toLocation": "HSR Layout, Bengaluru, Karnataka, India",
+    "fare": "₹ 120"
+  },
+  {
+    "status": "PENDING",
+    "caseNumber": "S245FS281",
+    "date": "Mar 27, 2023, 7:30:00 AM",
+    "fromLocation": "Manyata Tech Park",
+    "toLocation": "Kadugodi, Bengaluru, Karnataka, India",
+    "fare": "₹ 300"
+  },
+  {
+    "status": "COMPLETED",
+    "caseNumber": "S255GR182",
+    "date": "Mar 27, 2023, 11:20:45 AM",
+    "fromLocation": "Bengaluru City Railway Station",
+    "toLocation": "Majestic, Bengaluru, Karnataka, India",
+    "fare": "₹ 70"
+  },
+  {
+    "status": "CANCELLED",
+    "caseNumber": "S266HS219",
+    "date": "Mar 28, 2023, 2:05:30 PM",
+    "fromLocation": "HAL Airport",
+    "toLocation": "MG Road, Bengaluru, Karnataka, India",
+    "fare": "₹ 200"
+  },
+  {
+    "status": "APPROVED",
+    "caseNumber": "S270KR322",
+    "date": "Mar 29, 2023, 6:40:15 PM",
+    "fromLocation": "Kengeri Railway Station",
+    "toLocation": "Banashankari, Bengaluru, Karnataka, India",
+    "fare": "₹ 180"
+  },
+  {
+    "status": "APPROVED",
+    "caseNumber": "S230SKAN",
+    "date": "Mar 24, 2023, 5:03:24 PM",
+    "fromLocation": "Bellenduru spike lake",
+    "toLocation": "KHB Colony, Basaveshwar Nagar, Bengaluru, Karnataka, India",
+    "fare": "₹ 0"
+  },
+  {
+    "status": "PENDING",
+    "caseNumber": "S230IS9230",
+    "date": "Mar 24, 2023, 5:10:24 PM",
+    "fromLocation": "MG Road Metro Station",
+    "toLocation": "Kodihalli, Bengaluru, Karnataka, India",
+    "fare": "₹ 200"
+  },
+  {
+    "status": "COMPLETED",
+    "caseNumber": "S240SKAN",
+    "date": "Mar 25, 2023, 9:15:10 AM",
+    "fromLocation": "Jayanagar 4th Block",
+    "toLocation": "Indiranagar Metro Station, Indiranagar, Bengaluru, Karnataka, India",
+    "fare": "₹ 150"
+  },
+  {
+    "status": "CANCELLED",
+    "caseNumber": "S230KX230",
+    "date": "Mar 25, 2023, 11:02:05 AM",
+    "fromLocation": "Bengaluru International Airport",
+    "toLocation": "Koramangala 4th Block, Bengaluru, Karnataka, India",
+    "fare": "₹ 400"
+  },
+  {
+    "status": "APPROVED",
+    "caseNumber": "S232SU219",
+    "date": "Mar 26, 2023, 3:48:18 PM",
+    "fromLocation": "Whitefield Railway Station",
+    "toLocation": "HSR Layout, Bengaluru, Karnataka, India",
+    "fare": "₹ 120"
+  },
+  {
+    "status": "PENDING",
+    "caseNumber": "S245FS281",
+    "date": "Mar 27, 2023, 7:30:00 AM",
+    "fromLocation": "Manyata Tech Park",
+    "toLocation": "Kadugodi, Bengaluru, Karnataka, India",
+    "fare": "₹ 300"
+  },
+  {
+    "status": "COMPLETED",
+    "caseNumber": "S255GR182",
+    "date": "Mar 27, 2023, 11:20:45 AM",
+    "fromLocation": "Bengaluru City Railway Station",
+    "toLocation": "Majestic, Bengaluru, Karnataka, India",
+    "fare": "₹ 70"
+  },
+  {
+    "status": "CANCELLED",
+    "caseNumber": "S266HS219",
+    "date": "Mar 28, 2023, 2:05:30 PM",
+    "fromLocation": "HAL Airport",
+    "toLocation": "MG Road, Bengaluru, Karnataka, India",
+    "fare": "₹ 200"
+  },
+  {
+    "status": "APPROVED",
+    "caseNumber": "S270KR322",
+    "date": "Mar 29, 2023, 6:40:15 PM",
+    "fromLocation": "Kengeri Railway Station",
+    "toLocation": "Banashankari, Bengaluru, Karnataka, India",
+    "fare": "₹ 180"
+  },
+  {
+    "status": "APPROVED",
+    "caseNumber": "S230SKAN",
+    "date": "Mar 24, 2023, 5:03:24 PM",
+    "fromLocation": "Bellenduru spike lake",
+    "toLocation": "KHB Colony, Basaveshwar Nagar, Bengaluru, Karnataka, India",
+    "fare": "₹ 0"
+  },
+  {
+    "status": "PENDING",
+    "caseNumber": "S230IS9230",
+    "date": "Mar 24, 2023, 5:10:24 PM",
+    "fromLocation": "MG Road Metro Station",
+    "toLocation": "Kodihalli, Bengaluru, Karnataka, India",
+    "fare": "₹ 200"
+  },
+  {
+    "status": "COMPLETED",
+    "caseNumber": "S240SKAN",
+    "date": "Mar 25, 2023, 9:15:10 AM",
+    "fromLocation": "Jayanagar 4th Block",
+    "toLocation": "Indiranagar Metro Station, Indiranagar, Bengaluru, Karnataka, India",
+    "fare": "₹ 150"
+  },
+  {
+    "status": "CANCELLED",
+    "caseNumber": "S230KX230",
+    "date": "Mar 25, 2023, 11:02:05 AM",
+    "fromLocation": "Bengaluru International Airport",
+    "toLocation": "Koramangala 4th Block, Bengaluru, Karnataka, India",
+    "fare": "₹ 400"
+  },
+  {
+    "status": "APPROVED",
+    "caseNumber": "S232SU219",
+    "date": "Mar 26, 2023, 3:48:18 PM",
+    "fromLocation": "Whitefield Railway Station",
+    "toLocation": "HSR Layout, Bengaluru, Karnataka, India",
+    "fare": "₹ 120"
+  },
+  {
+    "status": "PENDING",
+    "caseNumber": "S245FS281",
+    "date": "Mar 27, 2023, 7:30:00 AM",
+    "fromLocation": "Manyata Tech Park",
+    "toLocation": "Kadugodi, Bengaluru, Karnataka, India",
+    "fare": "₹ 300"
+  },
+  {
+    "status": "COMPLETED",
+    "caseNumber": "S255GR182",
+    "date": "Mar 27, 2023, 11:20:45 AM",
+    "fromLocation": "Bengaluru City Railway Station",
+    "toLocation": "Majestic, Bengaluru, Karnataka, India",
+    "fare": "₹ 70"
+  },
+  {
+    "status": "CANCELLED",
+    "caseNumber": "S266HS219",
+    "date": "Mar 28, 2023, 2:05:30 PM",
+    "fromLocation": "HAL Airport",
+    "toLocation": "MG Road, Bengaluru, Karnataka, India",
+    "fare": "₹ 200"
+  },
+  {
+    "status": "APPROVED",
+    "caseNumber": "S270KR322",
+    "date": "Mar 29, 2023, 6:40:15 PM",
+    "fromLocation": "Kengeri Railway Station",
+    "toLocation": "Banashankari, Bengaluru, Karnataka, India",
+    "fare": "₹ 180"
+  }
+]
